@@ -1,5 +1,5 @@
 ### COPYRIGHT ####
-ref : https://github.com/mr-easy/GMM-EM-Python
+#ref : https://github.com/mr-easy/GMM-EM-Python
 ##################
 import numpy as np
 from scipy import random
